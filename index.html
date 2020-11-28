@@ -7,12 +7,13 @@
   background-image: linear-gradient(red, yellow) fixed;
 }
   
-html { 
-  background: linear-gradient(red, yellow) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+html {
+    background: #red; /* fallback color */
+    background: linear-gradient( to bottom, #red, #blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
 }
 </style>
 </head>
