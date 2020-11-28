@@ -6,9 +6,17 @@
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(red, yellow) fixed;
 }
+  
+html { 
+  background: linear-gradient(red, yellow) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 </style>
 </head>
-<body id="grad1">
+<body>
 
 <h1>Linear Gradient - Top to Bottom</h1>
 <p>This linear gradient starts red at the top, transitioning to yellow at the bottom:</p>
