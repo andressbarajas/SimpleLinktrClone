@@ -1,8 +1,8 @@
 
 /*  Background Gradient */
 html {
-    background: #670bcc; /* fallback color */
-    background: linear-gradient( to bottom, #670bcc, #d23eb7);
+    background: #3b0279; /* fallback color */
+    background: linear-gradient( to bottom, #3b0279, #d23eb7);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
