@@ -1,11 +1,75 @@
 
 /*  Background Gradient */
 html {
-    background: #3b0279; /* fallback color */
-    background: linear-gradient( to bottom, #3b0279, #d23eb7);
+    background: #440BD4; /* fallback color */
+    background: linear-gradient( to bottom, #440BD4, #FF2079);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
+}
+
+body {
+    width: 85%;
+    margin: 0 auto;
+    font-family: "Arial Helvetica"
+}
+
+#img-avatar {
+    border-radius: 15%;
+    width: 96px;
+    height: 96px;
+    margin-top: 40px; 
+}
+
+#avatar-caption {
+    color: white;
+}
+
+#header-section {
+    
+}
+
+#button-section {
+    
+}
+
+#social-section {
+    margin-top: 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+.button-link {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #E92FEB;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    transition: all .2s ease-in-out;
+}
+    
+.button-link:hover { 
+    transform: scale(1.05); 
+}
+
+.social-svg {
+    fill: white;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
 }
 
