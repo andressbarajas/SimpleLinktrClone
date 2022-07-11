@@ -7,5 +7,5 @@ GitHub Pages is not intended for or allowed to be used as a free web-hosting ser
 
 In addition, your use of GitHub Pages is subject to the GitHub Terms of Service, including the restrictions on get-rich-quick schemes, sexually obscene content, and violent or threatening content or activity.
 
-For more info about Github Pages
-https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+For more info about Github Pages click <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">HERE</a>
+
