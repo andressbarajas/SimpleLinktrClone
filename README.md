@@ -1,5 +1,5 @@
 # SimpleLinktrClone
-A simple LinkTree implementation.  Use this repo as a base and modify it for your needs.
+A simple LinkTree clone.  Use this repo as a base and modify it for your needs.
 
 You can even host it the side on Github pages. There are some restrictions though:
 
