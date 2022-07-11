@@ -1,7 +1,7 @@
 # SimpleLinktrClone
 A simple LinkTree clone.  Use this repo as a base and modify it for your needs.
 
-You can even host it the side on Github pages. There are some restrictions though:
+You can even host it the site on Github pages. There are some restrictions though:
 
 GitHub Pages is not intended for or allowed to be used as a free web-hosting service to run your online business, e-commerce site, or any other website that is primarily directed at either facilitating commercial transactions or providing commercial software as a service (SaaS). GitHub Pages sites shouldn't be used for sensitive transactions like sending passwords or credit card numbers.
 
